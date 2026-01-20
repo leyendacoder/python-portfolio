@@ -1,7 +1,7 @@
 # Python Text & File Manipulation Portfolio
 A collection of professional, error-proof Python scripts for common text/file cleaning tasks — perfect for small business clients and personal use. All scripts include input validation, full error handling, and user-friendly messages (no crashes!).
 
-## All Scripts (7 total)
+## All Scripts (9 total)
 ✅ duplicate_remover.py → Remove duplicate lines from text files (preserves original order)
 ✅ text_append.py → Add text to the end of a file (no overwriting original content)
 ✅ text_case_converter.py → Convert all text to UPPERCASE or lowercase (safe output file)
@@ -9,6 +9,8 @@ A collection of professional, error-proof Python scripts for common text/file cl
 ✅ word_counter.py → Count total words, characters (with/without spaces) in a text file
 ✅ find_replace_text.py → Find and replace text in files (safe output file, preserves original)
 ✅ advanced_duplicate_remover.py → Remove duplicate lines + clean messy text (2-in-1 tool)
+✅ text_cleaner_function.py → Pro version (modular code with functions, no blank lines)
+✅ advanced_duplicate_remover_functions.py → Pro version (modular code, no duplicates/blank lines)
 
 ## Key Features (Professional Standards)
 ✅ Input validation (only .txt files accepted)
